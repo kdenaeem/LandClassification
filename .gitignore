@@ -1,0 +1,6 @@
+# Ignore all files in the datasets folder
+datasets/*
+.DS_Store
+# Ignore all files in the models folder
+__pycache__/
+
